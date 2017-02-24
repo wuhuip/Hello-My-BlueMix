@@ -1,0 +1,10 @@
+applications:
+- path: target/JavaHelloWorldApp.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: First cloud
+  host: First-cloud
+  disk_quota: 1024M
+  services:
+  - Monitoring and Analytics-x8
