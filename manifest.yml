@@ -3,8 +3,7 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: First cloud
-  host: First-cloud
+  name: First cloudA
+  host: First-cloudA
   disk_quota: 1024M
-  services:
-  - Monitoring and Analytics-x8
+
